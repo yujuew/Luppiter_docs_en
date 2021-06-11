@@ -1,0 +1,9 @@
+site_name: Luppiter IIoT Platform
+nav:
+    - Home: index.md
+    - 'User Guide':
+      - Quick Start: Guide1.md
+    - About: about.md
+    - Manual: UserManual.md
+    - Contact Us: Contact.md
+theme: readthedocs
